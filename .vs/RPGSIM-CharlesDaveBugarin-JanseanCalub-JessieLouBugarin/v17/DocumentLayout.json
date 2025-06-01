@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\productvisualstudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RPGSIM.csproj",
+              "DocumentMoniker": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj",
+              "RelativeDocumentMoniker": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj",
+              "ToolTip": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj",
+              "RelativeToolTip": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\RPGSIM.csproj",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T17:54:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\productvisualstudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\productvisualstudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAgVAAAAAAAAAAD4vyAVAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-31T17:45:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs",
+              "RelativeToolTip": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwMwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:29:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs",
+              "RelativeDocumentMoniker": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs",
+              "ToolTip": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs",
+              "RelativeToolTip": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Character.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:28:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs",
+              "RelativeDocumentMoniker": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs",
+              "ToolTip": "C:\\Users\\CEEDEE\\Downloads\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs",
+              "RelativeToolTip": "RPGSIM-CharlesDaveBugarin-JanseanCalub-JessieLouBugarin\\RPGSIM\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:07:41.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
