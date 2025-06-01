@@ -3,7 +3,7 @@ RPGSIM - RPG Battle Simulator
 =============================
 MEMBERS: Jansean Calub, Jessie Lou Bugarin, Charles Dave Bugarin
 
-This project is a simple Windows Forms RPG battle simulator that lets two players select their names and characters, then simulates a turn-based battle between them. The characters each have unique stats, by classic RPG classes.
+This project is a simple Windows Forms RPG battle simulator that lets two players select their names and characters, then simulates a turn-based battle between them. The characters each have unique stats, inspired by classic RPG classes.
 
 ---
 
